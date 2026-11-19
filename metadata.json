@@ -1,0 +1,10 @@
+{
+  "name": "Remix Pencatat Absensi dan Nilai Siswa versi 3.1 (database firebase)",
+  "description": "Aplikasi pelacak absensi harian, rekapitulasi bulanan, serta nilai formatif dan sumatif siswa yang terintegrasi dengan Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
